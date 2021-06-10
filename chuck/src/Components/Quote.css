@@ -1,0 +1,16 @@
+.Quote-Wrapper {
+  margin: 160px 0 144px 0;
+  background-color: #422ed4;
+  width: 1120px;
+  height: 162px;
+  border-radius: 20px;
+}
+
+.Quote-Wrapper div {
+  margin: 24px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+}

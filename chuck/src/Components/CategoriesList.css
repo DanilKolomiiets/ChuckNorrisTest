@@ -1,0 +1,47 @@
+.Categories-Wrapper {
+  max-width: 1440px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Categories-List {
+  max-width: 1100px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin: 0 160px 0 160px;
+}
+
+.Categories-List h1 {
+  color: #1c1c39;
+  font-weight: 800;
+  font-size: 50px;
+}
+
+.Categories {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.Categories-List button {
+  width: 170px;
+  height: 57px;
+  border-radius: 20px;
+  background-color: #ffffff;
+  border: none;
+  margin-top: 20px;
+  color: #1c1c39;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+}
+
+.Categories-List button:hover {
+  background-color: #422ed4;
+  color: #ffffff;
+  cursor: pointer;
+}
